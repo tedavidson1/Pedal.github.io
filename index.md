@@ -1,5 +1,5 @@
 # Project Pedal
-![the logo] (logo.png)
+![the logo] (/docs/assets/images/logo.png)
 
 ## Motivation
 The currently used software is lacking in both functional and technical features:
