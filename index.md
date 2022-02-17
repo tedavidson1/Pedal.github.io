@@ -1,4 +1,4 @@
-# Project Pedal Main Page
+# Project Pedal
 
 ## Motivation
 The currently used software is lacking in both functional and technical features:
