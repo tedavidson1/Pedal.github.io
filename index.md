@@ -1,7 +1,5 @@
 # Project Pedal
 
-<img align="left" width="100" height="100" src="https://tedavidson1.github.io/Pedal.github.io/logo.png">
-
 ## Motivation
 The currently used software is lacking in both functional and technical features:
 - Hard to update price for service and parts of bikes
