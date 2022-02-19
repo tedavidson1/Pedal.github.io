@@ -1,5 +1,5 @@
 # Project Pedal
-![logo] (Pedal.github.io/images/logo.png)
+![logo] (logo.png)
 
 ## Motivation
 The currently used software is lacking in both functional and technical features:
