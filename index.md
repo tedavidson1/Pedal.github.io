@@ -27,7 +27,7 @@ These two groups of users drive what core features the software will provide.
 - Updatable prices and services interface
 - Convenient communication with customer
 
-##Example Scenario
+## Example Scenario
 A customer of the bike shop would enter with their bike for inspection.
 Once the inspection has taken place, the bike shop would generate a ticket for the bike and owner.
 The owner receives an email with a link, allowing them to access their ticket status on the website.
