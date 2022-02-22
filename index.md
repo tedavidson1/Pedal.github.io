@@ -44,7 +44,8 @@ While certain elements are still up in the air, the current plan is as follows:
 - Previous data will not be transferred. This is a brand new system.
 - Wordpress site, in order to be in-line with other UA sites
 - PHP for interacting with Wordpress, if needed
-- Docker usage to deploy
+- Docker
+
 ---
 
 ### Team E-JYBT is:
